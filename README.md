@@ -9,4 +9,4 @@
 バグこそ多いですが、プレイしてください！
 
 
-[ゲーム](https://supermusubu2.netlify.app/)
+[ここから飛べます](https://supermusubu2.netlify.app/)
